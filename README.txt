@@ -12,4 +12,4 @@ NOTE # If you want to run a Test File Kindly go to the Test_Codes to run a speci
 COMMAND TO RUN A TEST FILE
 --------------------------
 
-pytest -v -s --capture=sys --html=/reports/reports.html <Test_File.py>
+pytest -v -s --capture=sys --html=C:\Users\DELL\Desktop\workspace\Project_Guvi\reports\test_suman_UPDATED_1.html testSuman.p
